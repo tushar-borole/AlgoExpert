@@ -8,4 +8,5 @@
 | Validate Sequence    | [Solution 1](validateSubsequence.js) | O(n) time , O(n) space  |
 | Sorted Squared Array | [Solution 1](sortedSquaredArray.js)  | O(2n) time , O(n) space |
 |                      | [Solution 2](sortedSquaredArray2.js) | O(n) time , O(n) space  |
+| Tournament Winner                     |  [Solution 1](tournamentWinner.js)                                    |   O(nlogn) time , O(logn) space                       |
 
