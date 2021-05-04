@@ -10,4 +10,5 @@
 |                           | [Solution 2](sortedSquaredArray2.js)             | O(n) time , O(n) space        |
 | Tournament Winner         | [Solution 1](tournamentWinner.js)                | O(nlogn) time , O(logn) space |
 | Find Closest Value In BST | [Closest value in BST](findClosestValueInBst.js) | O(n) time, 0(n) space         |
+| Branch Sums               | [Branch Sums](branchSum.js)                      | O(n) time, 0(n) space         |
 
