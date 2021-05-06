@@ -13,4 +13,5 @@
 | Branch Sums               | [Branch Sums](branchSum.js)                      | O(n) time, 0(n) space         |
 | Node Depths               | [Solution 1](nodeDepths.js)                      | O(n) time, 0(n) space         |
 | Depth-first Search        | [Solution 1](depthFirstSearch.js)                |                               |
+| Nth Fibonacci             | [Solution 1](NthFibonacci.js)                    | O(n) time, 0(n) space         |
 
