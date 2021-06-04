@@ -15,4 +15,5 @@
 | Depth-first Search            | [Solution 1](depthFirstSearch.js)                |                               |
 | Nth Fibonacci                 | [Solution 1](NthFibonacci.js)                    | O(n) time, 0(n) space         |
 | First Non-Repeating Character | [Solution 1](firstNonRepeatingCharacter.js)      |                               |
+| Palindrome Check              | [Solution 1](palindromeCheck.js)                 |                               |
 
