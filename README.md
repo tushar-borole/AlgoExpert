@@ -16,4 +16,5 @@
 | Nth Fibonacci                 | [Solution 1](NthFibonacci.js)                    | O(n) time, 0(n) space         |
 | First Non-Repeating Character | [Solution 1](firstNonRepeatingCharacter.js)      |                               |
 | Palindrome Check              | [Solution 1](palindromeCheck.js)                 |                               |
+| BST Traversal                 | [Solution 1](BSTTraversal.js)                    |                               |
 
